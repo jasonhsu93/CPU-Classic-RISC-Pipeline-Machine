@@ -1,9 +1,7 @@
-Advanced CPU Design and Memory Integration - Lab 7: "Adding Memory and I/O to the Simple RISC Machine"
-
-Institution: University of British Columbia
+Advanced CPU Design and Memory Integration 
 
 Project Overview:
-This project was a comprehensive exercise in computer systems engineering, focused on enhancing a simple RISC (Reduced Instruction Set Computing) machine by integrating memory for storing instructions and data, and implementing memory-mapped I/O. Conducted as part of the CPEN211 Computer Systems I course, the project required extending the datapath and finite-state machine controller of a previously developed CPU model (from Lab 6), and introducing advanced concepts like instruction memory and I/O interfacing.
+This project was a comprehensive exercise in computer systems engineering, focused on enhancing a simple RISC (Reduced Instruction Set Computing) machine by integrating memory for storing instructions and data, and implementing memory-mapped I/O. The project required extending the datapath and finite-state machine controller of a previously developed CPU model, and introducing advanced concepts like instruction memory and I/O interfacing.
 
 Key Objectives and Tasks:
 
