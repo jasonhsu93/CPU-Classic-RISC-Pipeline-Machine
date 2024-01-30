@@ -1,4 +1,4 @@
-Project Title: Advanced CPU Design and Memory Integration - Lab 7: "Adding Memory and I/O to the Simple RISC Machine"
+Advanced CPU Design and Memory Integration - Lab 7: "Adding Memory and I/O to the Simple RISC Machine"
 
 Institution: University of British Columbia
 
