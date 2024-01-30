@@ -18,8 +18,11 @@ Memory-Mapped I/O Implementation: Finalized the CPU model by integrating memory-
 Technologies and Tools Used:
 
 Verilog Programming Language
+
 ModelSim Compiler
+
 DE1-SoC (ARM7-based motherboard)
+
 Quartus Software
 
 Project Outcomes:
