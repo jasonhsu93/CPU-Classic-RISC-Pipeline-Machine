@@ -21,6 +21,7 @@ Verilog Programming Language
 ModelSim Compiler
 DE1-SoC (ARM7-based motherboard)
 Quartus Software
+
 Project Outcomes:
 The project successfully culminated in a fully functional CPU model capable of performing essential computing tasks, such as executing instructions from memory, handling data with load and store operations, and interacting with external devices through memory-mapped I/O. It demonstrated a profound application of computer engineering principles, including memory management, instruction execution, and hardware interfacing.
 
