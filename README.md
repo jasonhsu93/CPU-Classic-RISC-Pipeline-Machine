@@ -3,11 +3,9 @@ Advanced CPU Design and Memory Integration
 Project Overview:
 This project was a comprehensive exercise in computer systems engineering, focused on enhancing a simple RISC (Reduced Instruction Set Computing) machine by integrating memory for storing instructions and data, and implementing memory-mapped I/O. The project required extending the datapath and finite-state machine controller of a previously developed CPU model, and introducing advanced concepts like instruction memory and I/O interfacing.
 
-Key Objectives and Tasks:
-
 Extending Datapath and Controller: Upgraded the CPU model by adding memory components to the existing datapath and finite-state machine controller. This involved detailed understanding and modifications of CPU internal structures to accommodate memory operations.
 
-Finite-State Machine Modification: Altered the Lab 6 finite-state machine to interface with the newly added instruction memory. This required intricate design and programming skills to ensure seamless integration and functioning of the CPU with the memory component.
+Finite-State Machine Modification: Altered the finite-state machine to interface with the newly added instruction memory. This required intricate design to ensure seamless integration and functioning of the CPU with the memory component.
 
 Program Counter Implementation: Developed an 8-bit wide program counter, distinct from the ARMv7 architecture, to accurately track and control instruction flow within the CPU.
 
